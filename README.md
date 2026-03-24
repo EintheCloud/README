@@ -7,9 +7,9 @@ Cloud Engineer in progress | Detroit/Chicago
 AWS | Python | Terraform | Cloud Security
 
 ## Projects Coming
--Security Monitoring Pipeline
--Hydroponic IoT Tracker
--Yoga App with AI
+- Security Monitoring Pipeline
+- Hydroponic IoT Tracker
+- Yoga App with AI
 
 ## YouTube
 E in the Cloud
